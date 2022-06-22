@@ -4,5 +4,15 @@
     "QuadrupedSensor.Human_induction|block": "人体感应 | 接收 %pin",
     "QuadrupedSensor.Select_gesture_as|block": "选择手势为 | %state",
     "QuadrupedSensor.GestureInit|block": "手势初始化",
-    "QuadrupedSensor.GetGesture|block": "获取手势值"
+    "QuadrupedSensor.GetGesture|block": "获取手势值",
+    "QuadrupedSensor.ping|block": "超声波 | 发射 %trig |接收 %echo |单位 %unit",
+    "gesture.right|block": "从左到右",
+    "gesture.left|block": "从右到左",
+    "gesture.up|block": "从下往上",
+    "gesture.down|block": "从上往下",
+    "gesture.forward|block": "从后往前",
+    "gesture.backward|block": "从前往后",
+    "gesture.clockwise|block": "顺时针",
+    "gesture.count_clockwise|block": "逆时针",
+    "gesture.wave|block": "挥手"
 }
