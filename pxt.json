@@ -7,7 +7,6 @@
     "files": [
         "README.md",
         "QuadrupedSensor.ts",
-        "Sensor.ts",
         "_locales/zh-CN/QuadrupedSensor-strings.json"
     ],
     "testFiles": [
