@@ -2,12 +2,9 @@
     "name": "QuadrupedSensor",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "QuadrupedSensor.ts",
         "Sensor.ts",
