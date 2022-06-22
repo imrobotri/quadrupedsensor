@@ -10,8 +10,8 @@
         "main.ts",
         "README.md",
         "QuadrupedSensor.ts",
-        "_locales/zh-CN/QuadrupedSensor-strings.json",
-        "Sensor.ts"
+        "Sensor.ts",
+        "_locales/zh-CN/QuadrupedSensor-strings.json"
     ],
     "testFiles": [
         "test.ts"
@@ -23,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
