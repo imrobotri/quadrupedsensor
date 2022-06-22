@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="LoXaeyTAa:[3V(_xD?2`" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="#c~0YHs~8:w1m~/6p^M[" x="0" y="0"></block><block type="QuadrupedSensorSelect_gesture_as" id="BjE^{3N!z79MFIuI:^rQ" disabled="true" x="206" y="104"><field name="state">gesture.right</field></block></xml>
