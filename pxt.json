@@ -3,8 +3,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "microphone": "*",
-        "QuadrupedControl": "github:imrobotri/quadrupedcontrol#00194960366ba71371248d6bafa268fee4b51f1f"
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
@@ -24,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
