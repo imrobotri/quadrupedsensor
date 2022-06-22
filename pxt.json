@@ -10,7 +10,7 @@
         "main.ts",
         "README.md",
         "QuadrupedSensor.ts",
-        "_locales/zh-CN/QuadrupedControl-strings.json",
+        "_locales/zh-CN/QuadrupedSensor-strings.json",
         "Sensor.ts"
     ],
     "testFiles": [
