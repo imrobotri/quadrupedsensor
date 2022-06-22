@@ -1,7 +1,0 @@
-{
-    "QuadrupedSensor.Infrared|block": "红外传感器 | 接收 %pin",
-    "QuadrupedSensor.Human_induction|block": "人体感应 | 接收 %pin",
-    "QuadrupedSensor.Select_gesture_as|block": "选择手势为 | %state",
-    "QuadrupedSensor.GestureInit|block": "手势初始化",
-    "QuadrupedSensor.GetGesture|block": "获取手势值"
-}
